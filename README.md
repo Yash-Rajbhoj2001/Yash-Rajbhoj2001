@@ -1,6 +1,6 @@
 # A Little Bit About me and My Interests
   <!--[![HitCount](https://hits.dwyl.com/Yash-Rajbhoj2001/Yash-Rajbhoj2001.svg?style=flat-square&show=unique)](http://hits.dwyl.com/Yash-Rajbhoj2001/Yash-Rajbhoj2001)-->
-  ![](https://komarev.com/ghpvc/?username=Yash-Rajbhoj2001&label=PROFILE+VIEWS)
+  ![](https://komarev.com/ghpvc/?username=Yash-Rajbhoj2001&label=VIEWS)
 
 ```yaml
 name: Yash Rajbhoj
