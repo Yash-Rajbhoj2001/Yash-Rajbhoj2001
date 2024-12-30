@@ -1,4 +1,5 @@
 # A Little Bit About me and My Interests
+  [![HitCount](https://hits.dwyl.com/Yash-Rajbhoj2001/Yash-Rajbhoj2001.svg?style=flat-square&show=unique)](http://hits.dwyl.com/Yash-Rajbhoj2001/Yash-Rajbhoj2001)
 
 ```yaml
 name: Yash Rajbhoj
