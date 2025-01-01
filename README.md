@@ -7,7 +7,7 @@ name: Yash Rajbhoj
 located_in: Maharashtra, India
 education: 
   [
-    "I'm a passionate student specializing in Data Science and Analytics",
+    "I'm a passionate student specializing in Data Analytics and Science",
     "Master's in Computer Application"
     "Bachelor's in Computer Science"
   ]
